@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "CursedTimerFont";
+  src: url("font/CursedTimer.ttf") format("truetype");
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "CursedTimerFont";
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: #1B244A;
+    height: 100vh;
+
+}
+
+.score {
+    background: #080001;
+    color: #F94F6D;
+    font-size: 100px;
+    width: auto;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px #6ea1ec;
+    transition: 0.3s ease-in-out;
+}
+
+.score:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px #6ea1ec, 
+                0 0 50px #6ea1ec, 0 0 100px #6ea1ec;
+}
+
+h3 {
+    font-size: 40px;
+    color: #EEEEEE;
+    text-shadow: 0 0 20px #6ea1ec;
+    transition: 0.3s ease-in-out;
+}
+
+h3:hover {
+    transform: scale(1.1);
+    color: #3764d9;
+}
+
+.count-btn, .reset-btn {
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background: none;
+    width: 40px;
+    height: 40px;
+    margin: 2px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 0 10px #6ea1ec;
+}
+
+.count-btn:hover {
+    transform: scale(1.3);
+    color: #1B244A;
+    font-size: 18px;
+    background: #9AABD8;
+    box-shadow: 0 0 30px #6ea1ec;
+}
+
+
+.reset-btn {
+    margin-top: 12px;
+    width: 90px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #1B244A;
+    background: #9AABD8;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+    box-shadow: 0 0 10px #6ea1ec;
+}
+
+.reset-btn:hover {
+    transform: scale(1.1)translateY(5px);
+    box-shadow: 0 0 30px #6ea1ec;
+}
