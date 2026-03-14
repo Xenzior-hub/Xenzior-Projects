@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins';
+}
+
+.container {
+    text-shadow: 0 0 1px black;
+}
+
+.header {
+    background-image: url("images/Thumbnail-Head.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro-title {
+    font-family: "Playfair Display", serif;
+    font-size: 30px;
+    background: #1d3557;
+    color: white;
+    padding: 6px 20px;
+    border-radius: 12px;
+}
+
+.intro-description {
+    margin-top: 16px;
+    background: #457b9d;
+    color: white;
+    padding: 6px 10px;
+    border-radius: 12px;
+    max-width: 400px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.hero-section {
+    text-align: center;
+    background: #F1FAEE;
+    padding: 30px;
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.img-place {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 120px;
+    height: 120px;
+    margin-bottom: 20px;
+}
+
+.title-dec {
+    margin-bottom: 10px;
+}
+
+.para {
+    font-size: 15px;
+    text-align: center;
+}
+
+.Shwedagon {
+    margin: 0 50px;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 30px;
+}
+
+.card {
+    width: 400px;
+    height: 150px;
+    margin: 50px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #71B48D;
+    color: white;
+    border-bottom: 6px solid #c262fa;
+    border-radius: 15px;
+        
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 30px;
+}
