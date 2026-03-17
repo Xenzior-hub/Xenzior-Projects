@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: "Karla", sans-serif;
+}
+
+body {
+    background: #1C1C1C;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    padding: 50px;
+    background: #1F2937;
+    width: 50vh;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    margin-top: 80px;
+    font-weight: 800;    
+}
+
+span {
+    color: #55F991;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.generate-btn {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    padding: 10px;
+    background: #10B981;
+    border: none;
+    border-radius: 6px;
+    color: #ffffff;
+    letter-spacing: 1px;
+    box-shadow: 0 0 10px #10B981;
+    transition: 0.3s ease-in-out;
+}
+
+.generate-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px #10B981,
+                0 0 50px #10B981;
+}
+
+.faded-line {
+    border: none;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.info-box {
+    display: flex;
+    flex-direction: row;
+}
+
+.text-box-container {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.text-box {
+    background: #273549;
+    color: #55F991;
+    margin: 30px 0px 10px 0px;
+    min-width: 35%;
+    width: auto;
+    font-size: 18px;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 30px;
+    letter-spacing: 2px;
+    height: 20px;
+}
+
+#first-inbox {
+    margin-right: 10px;
+}
+
+#second-inbox {
+    margin-left: 20px;
+}
+
+.copy-btn {
+    background: #10B981;
+    color: #ffffff;
+    margin: 10px 0px;
+    min-width: 35%;
+    width: auto;
+    font-size: 14px;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 30px;
+    letter-spacing: 2px;
+    height: 34px;
+    box-shadow: 0 0 10px #10B981;
+    transition: 0.3s ease-in-out;
+}
+
+.copy-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px #10B981,
+                0 0 50px #10B981;
+}
+
+#first-copy-btn {
+    margin-right: 10px;
+}
+
+#second-copy-btn {
+    margin-left: 20px;
+}
