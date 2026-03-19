@@ -71,7 +71,7 @@ I focus on **building projects, not just watching tutorials**.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Xenzior-hub  
-- LinkedIn: (add your LinkedIn link here)
+- LinkedIn: (https://www.linkedin.com/in/min-thant-ko-ko-02265530a/)
 
 ---
 
