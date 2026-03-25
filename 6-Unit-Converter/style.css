@@ -17,13 +17,13 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    background: #1F2937;
+    background: #092327;
     height: auto;
     width: 550px;
 }
 
 #header {
-    background: #6943FF;
+    background: #90C2E7;
     width: auto;
     height: auto;
     padding: 35px;
@@ -34,10 +34,11 @@ body {
 
 h1 {
     margin-bottom: 50px;
+    text-shadow: 0 0 20px #0B5351;
 }
 
 #digital-number {
-    color: #ffffff;
+    color: #00A9A5;
     min-width: 20px;
     width: 2ch;
     height: 83px;
@@ -45,11 +46,12 @@ h1 {
     margin-bottom: 26px;
     font-size: 58px;
     font-weight: bold;
-    border: 2px solid #B295FF;
+    border: 2px solid #4E8098;
     border-radius: 6px;
     background: none;
     outline: none;
     box-sizing: border-box;
+    box-shadow: 0 0 5px #00A9A5;
 }
 
 #convert-btn {
@@ -58,6 +60,14 @@ h1 {
     padding: 8px 26px;
     border-radius: 6px;
     border: none;
+    box-shadow: 0 0 10px #0B5351;
+    transition: 0.3s ease-in-out;
+}
+
+#convert-btn:hover {
+    transform: scale(1.1)translateY(-5px);
+    box-shadow: 0 0 36px #0B5351;
+    background: #00A9A5;
 }
 
 #botton {
@@ -65,7 +75,7 @@ h1 {
 }
 
 .result-tab {
-    background: #273549;
+    background: #0B5351;
     margin: 20px;
     height: auto;
     width: auto;
@@ -73,6 +83,6 @@ h1 {
 }
 
 h3 {
-    color: #CCC1FF;
+    color: #00A9A5;
     margin-bottom: 16px;
 }
