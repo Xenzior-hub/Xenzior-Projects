@@ -1,8 +1,8 @@
 # 🚀 Xenzior Projects
 
-Welcome to my learning journey as a **Full-Stack Developer**.
+Welcome to my journey as a **Full-Stack Developer in progress**.
 
-This repository contains all the projects I’ve built while learning web development through **Scrimba** and self-practice.
+This repository contains the projects I’ve built while learning web development through **Scrimba** and self-practice.
 
 ---
 
@@ -13,33 +13,40 @@ Hi, I'm **Min Thant Ko Ko**
 - 💻 Learning Full-Stack Web Development  
 - 🎯 Goal: Become a professional developer and work internationally (Norway 🇳🇴)
 
-I focus on **building projects, not just watching tutorials**.
+I focus on **building real projects, not just watching tutorials**.
 
 ---
 
 ## 🛠️ Projects
 
 ### 1️⃣ Business Card
-- Built with HTML & CSS
-- Simple personal card layout
+- HTML & CSS  
+- Simple personal card layout  
 
 ### 2️⃣ Birthday Gift
-- HTML & CSS
-- Hover effects and styling
+- HTML & CSS  
+- Hover effects and styling  
 
 ### 3️⃣ Hometown Page
-- HTML & CSS
-- Travel page about Myanmar
-- Inspired design (built without copying code)
+- HTML & CSS  
+- Travel page about Myanmar  
+- Built by recreating design without copying code  
 
 ### 4️⃣ Basketball Scoreboard
-- HTML, CSS, JavaScript
-- Interactive score tracking
+- HTML, CSS, JavaScript  
+- Interactive score tracking  
+- DOM manipulation practice  
 
 ### 5️⃣ Password Generator
-- HTML, CSS, JavaScript
-- Generate random passwords
-- Copy to clipboard feature
+- HTML, CSS, JavaScript  
+- Random password generation  
+- Copy-to-clipboard feature  
+
+### 6️⃣ Unit Converter 🆕
+- HTML, CSS, JavaScript  
+- Convert units (length, volume, etc.)  
+- User input handling and dynamic output  
+- Strengthened JavaScript fundamentals  
 
 ---
 
@@ -47,14 +54,14 @@ I focus on **building projects, not just watching tutorials**.
 
 - HTML5  
 - CSS3  
-- JavaScript (Basic → Growing)  
+- JavaScript (Fundamentals → Improving)  
 - Git & GitHub  
 
 ---
 
 ## 📈 Current Focus
 
-- Improving JavaScript skills  
+- Strengthening JavaScript logic and problem-solving  
 - Learning backend development (Node.js)  
 - Building more real-world projects  
 
@@ -63,24 +70,25 @@ I focus on **building projects, not just watching tutorials**.
 ## 🔥 My Learning Approach
 
 - Learn → Build → Practice → Repeat  
-- Post progress on LinkedIn  
-- Commit code daily on GitHub  
+- Build projects after every lesson  
+- Share progress on LinkedIn  
+- Commit code regularly on GitHub  
 
 ---
 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Xenzior-hub  
-- LinkedIn: (https://www.linkedin.com/in/min-thant-ko-ko-02265530a/)
+- LinkedIn: https://www.linkedin.com/in/min-thant-ko-ko-02265530a/  
 
 ---
 
 ## 🚀 Future Goals
 
-- Become job-ready Full-Stack Developer  
-- Get remote developer job  
+- Become a job-ready Full-Stack Developer  
+- Get a remote developer job  
 - Move and work in Norway 🇳🇴  
 
 ---
 
-💡 This repository will keep growing as I continue my journey.
+💡 This repository grows as I continue learning and building.
