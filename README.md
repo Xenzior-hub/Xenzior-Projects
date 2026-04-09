@@ -17,39 +17,6 @@ I focus on **building real projects, not just watching tutorials**.
 
 ---
 
-## 🛠️ Projects
-
-### 1️⃣ Business Card
-- HTML & CSS  
-- Simple personal card layout  
-
-### 2️⃣ Birthday Gift
-- HTML & CSS  
-- Hover effects and styling  
-
-### 3️⃣ Hometown Page
-- HTML & CSS  
-- Travel page about Myanmar  
-- Built by recreating design without copying code  
-
-### 4️⃣ Basketball Scoreboard
-- HTML, CSS, JavaScript  
-- Interactive score tracking  
-- DOM manipulation practice  
-
-### 5️⃣ Password Generator
-- HTML, CSS, JavaScript  
-- Random password generation  
-- Copy-to-clipboard feature  
-
-### 6️⃣ Unit Converter 🆕
-- HTML, CSS, JavaScript  
-- Convert units (length, volume, etc.)  
-- User input handling and dynamic output  
-- Strengthened JavaScript fundamentals  
-
----
-
 ## ⚙️ Tech Stack
 
 - HTML5  
